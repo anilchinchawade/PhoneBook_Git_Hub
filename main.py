@@ -1,3 +1,7 @@
+def message():
+    print("This function is added at the git-hub account")
+
+
 def welcome():
     choice = int(input(''' Welcome to Phonebook App. Select Your option==>
              1.	Create a new contact
