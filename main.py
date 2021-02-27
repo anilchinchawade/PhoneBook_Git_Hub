@@ -1,6 +1,8 @@
 def message():
     print("This function is added at the git-hub account")
 
+def greet_user():
+    print("Hello User Welcome to phoneBook App")
 
 def welcome():
     choice = int(input(''' Welcome to Phonebook App. Select Your option==>
